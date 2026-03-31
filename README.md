@@ -189,17 +189,7 @@ Pathmate/
 
 ---
 
-## Demo
-
-Add your demo link here once available.
-
-- **Demo Video:** [Add demo link here]
-
----
-
 ## Screenshots
-
-Add your screenshots here once available.
 
 ### Example
 
@@ -237,7 +227,7 @@ Add your screenshots here once available.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pathmate-ios.git
+   git clone https://github.com/omkarlad008/pathmate-ios.git
    ```
 
 2. Open the project in Xcode:
@@ -281,5 +271,4 @@ Pathmate was created as part of an iOS software engineering project and reflects
 Frontend Developer | Full Stack Developer | Software Engineer
 
 - **LinkedIn:** https://www.linkedin.com/in/omkarlad008/
-- **Portfolio:** [Add portfolio link here]
 - **Email:** omkar.lad.08@gmail.com
