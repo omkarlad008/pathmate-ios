@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Xcode user-specific files
+xcuserdata/
+*.xcuserstate
+
+# Build artifacts
+DerivedData/
+.build/
+build/
+
+# Secrets / local config
+Pathmate/GoogleService-Info.plist
+
+# SwiftData / SQLite
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal

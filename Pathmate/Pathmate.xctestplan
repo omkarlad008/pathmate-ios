@@ -1,0 +1,43 @@
+{
+  "configurations" : [
+    {
+      "id" : "4D996C22-E8D0-4F7B-B66D-4A9C8D0F910D",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Pathmate.xcodeproj",
+      "identifier" : "B8EADF992E5DFC1700D91EDE",
+      "name" : "Pathmate"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Pathmate.xcodeproj",
+        "identifier" : "B8EADFA62E5DFC1900D91EDE",
+        "name" : "PathmateTests"
+      }
+    },
+    {
+      "skippedTests" : [
+        "PathmateUITests",
+        "PathmateUITests\/testExample()",
+        "PathmateUITests\/testLaunchPerformance()",
+        "PathmateUITestsLaunchTests",
+        "PathmateUITestsLaunchTests\/testLaunch()"
+      ],
+      "target" : {
+        "containerPath" : "container:Pathmate.xcodeproj",
+        "identifier" : "B8EADFB02E5DFC1900D91EDE",
+        "name" : "PathmateUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
